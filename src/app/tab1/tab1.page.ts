@@ -12,7 +12,7 @@ export class Tab1Page {
   ngOninit(){
 
     
-    let numero = 10
+    let numero = 11
     debugger
     numero=20
 
